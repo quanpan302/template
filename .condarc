@@ -1,0 +1,8 @@
+ssl_verify: true
+channels:
+  - conda-forge
+  - defaults
+envs_dirs:
+  - C:\Anaconda3\envs
+pkgs_dirs:
+  - C:\Anaconda3\pkgs

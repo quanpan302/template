@@ -1,0 +1,21 @@
+name: projectname
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - openpyxl
+  - scipy
+  - numpy
+  - pandas
+  - gdal=3.2.2
+  - geopandas
+  - scikit-learn
+  - pyts
+  - seaborn
+  - wntr
+  - pip:
+    - chama
+    - pymoo
+prefix: C:\Anaconda3\envs\projectname

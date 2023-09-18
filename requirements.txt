@@ -1,0 +1,4 @@
+matplotlib
+numpy
+pandas
+GDAL==3.2.2
